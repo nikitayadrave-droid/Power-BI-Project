@@ -6,6 +6,12 @@ The Customer Dashboard is a data visualization project designed to analyze custo
 
 The dashboard displays key performance indicators (KPIs), customer trends, and other important insights through charts, graphs, and summary reports.
 
+<img width="1417" height="757" alt="dashboard" src="https://github.com/user-attachments/assets/54af5033-b0e4-49b2-86a0-603a815b7ec3" />
+<img width="1415" height="757" alt="Overview_page" src="https://github.com/user-attachments/assets/bb537f60-33d4-45bf-af15-3d1b5d7ce5bd" />
+<img width="1412" height="753" alt="Logistics_page" src="https://github.com/user-attachments/assets/a5a6b787-dab8-4754-ad5c-1962d1a4c082" />
+<img width="1417" height="757" alt="Customer-page" src="https://github.com/user-attachments/assets/a677c8ac-ae57-4d89-ae17-6d76b5aea11b" />
+
+
 🎯 Objectives
 Analyze customer data and purchasing behavior.
 Track important business performance indicators.
@@ -51,10 +57,6 @@ Open the project files using the relevant application.
 Load the dataset, if required.
 Open the dashboard and explore the available visualizations and filters.
 
-📁 Project Structure
-Customer-Dashboard/
-│
-├── README.md
-├── dataset/          # Customer dataset, if included
-├── dashboard/        # Dashboard or report files
-└── screenshots/      # Dashboard preview images
+
+
+
